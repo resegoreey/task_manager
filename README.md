@@ -1,11 +1,11 @@
 # task_manager
 
-📌 1️⃣ Task Manager
+📌 1️⃣ Task Manager ---
 What It Does:
 
-Lets the user add tasks to a list.
-Allows them to remove a task by name.
-Displays all tasks when requested.
+- Lets the user add tasks to a list.
+- Allows them to remove a task by name.
+- Displays all tasks when requested.
 
 # Further Modifications:
 
