@@ -18,7 +18,7 @@ while True:
     print("""What would you like to do?
         1. Remove item
         2. View tasks
-        3. Q to quit""")
+        3. q to quit""")
 
     user_action = input("Enter a choice? ")
     if user_action == "1":
